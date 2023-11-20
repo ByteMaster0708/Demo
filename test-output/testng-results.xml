@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-04T15:28:07 IST" name="Default suite" finished-at="2023-11-04T15:28:07 IST" duration-ms="118">
+    <groups>
+    </groups>
+    <test started-at="2023-11-04T15:28:07 IST" name="Default test" finished-at="2023-11-04T15:28:07 IST" duration-ms="118">
+      <class name="TestNG1.Annotations">
+        <test-method is-config="true" signature="BC()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="BC" finished-at="2023-11-04T15:28:07 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="BM" finished-at="2023-11-04T15:28:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="Home()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="Home" finished-at="2023-11-04T15:28:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="AM" finished-at="2023-11-04T15:28:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="BM" finished-at="2023-11-04T15:28:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="Home1()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="Home1" finished-at="2023-11-04T15:28:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home1 -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="AM" finished-at="2023-11-04T15:28:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:TestNG1.Annotations@5d0bf09b]" started-at="2023-11-04T15:28:07 IST" name="AC" finished-at="2023-11-04T15:28:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- TestNG1.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
